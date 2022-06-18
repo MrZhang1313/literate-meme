@@ -38,7 +38,7 @@
 			<key>ProxyType</key>
 			<string>Manual</string>
 			<key>SSID_STR</key>
-			<string>CSQ</string>
+			<string>CSQ_5G</string>
 		</dict>
 	</array>
 	<key>PayloadDisplayName</key>
